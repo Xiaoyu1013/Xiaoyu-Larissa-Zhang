@@ -25,9 +25,9 @@ function setup() {
 
     text("How are you", windowWidth/2, windowHeight/2);
 
-    let page2 = createA('https://xiaoyu1013.github.io/_pageTwo/index.html', 'why not click me');
+    let page2 = createA('https://xiaoyu1013.github.io/Xiaoyu-Larissa-Zhang/_pageTwo/index.html', 'why not click me');
     page2.position(200, 400);
-    let page3 = createA('https://xiaoyu1013.github.io/_pageThree/index.html', 'click me');
+    let page3 = createA('https://xiaoyu1013.github.io/Xiaoyu-Larissa-Zhang/_pageThree/index.html', 'click me');
     page3.position(200, 500);
 
 
